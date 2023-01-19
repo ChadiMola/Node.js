@@ -1,0 +1,19 @@
+{
+  "name": "node-jscheckpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Task2.js",
+  "scripts": {
+    "start":"nodemon task2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "nodemailer": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
